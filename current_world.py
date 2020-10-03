@@ -19,6 +19,5 @@ while True:
         f.close()
         time.sleep(5)        
     except FileNotFoundError as e:
-        print(e)
         break
     
