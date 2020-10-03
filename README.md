@@ -3,4 +3,4 @@ Growtopia Current World (GCW) is a program written in Python created for the gam
 
 This tool can be used to aid Growtopia streamers' to display their current world when they are streaming.
 
-The source code is available for auditing.
+The source code is available for auditing and self build.
