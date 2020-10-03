@@ -17,7 +17,6 @@ while True:
         f = open(os.path.join(PATH, 'current_world.txt'), 'w')
         f.write(current_world)
         f.close()
-        time.sleep(5)        
+        time.sleep(5) # Update rate in second(s)
     except FileNotFoundError as e:
         break
-    
