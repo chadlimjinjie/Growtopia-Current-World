@@ -10,9 +10,7 @@ An application written in Python to write your current world in Growtopia to a t
 To aid Growtopia streamers in displaying their current world to their viewers.
 ## Features
 - Writes your current world in Growtopia to a text file every 5 seconds
-
 ## Code Example
-
 ```python
 USER = os.environ['USERPROFILE'] # e.g. C:/Users/chadl/
 PATH = os.path.join(USER, 'AppData/Local/Growtopia/') # Growtopia download location
@@ -26,6 +24,3 @@ time.sleep(5) # Update rate in second(s)
 ## Contribute
 
 ## Credits
-
-
-
