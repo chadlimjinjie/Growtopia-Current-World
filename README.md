@@ -1,6 +1,6 @@
 # Growtopia Current World
 An application written in Python to write your current world in Growtopia to a text file.
-![alt text](https://github.com/chadlimjinjie/Growtopia-Current-World/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/chadlimjinjie/Growtopia-Current-World/blob/main/Screenshot%202020-10-04%20142916.png?raw=true)
 ## Table of contents
 - [Motivation](https://github.com/chadlimjinjie/Growtopia-Current-World/blob/main/README.md#motivation)
 - [Features](https://github.com/chadlimjinjie/Growtopia-Current-World/blob/main/README.md#features)
