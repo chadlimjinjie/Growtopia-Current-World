@@ -18,3 +18,13 @@ PATH = os.path.join(USER, 'AppData/Local/Growtopia') # Growtopia download locati
 f = open(os.path.join(PATH, 'current_world.txt'), 'w') # Write the current world to current_world.txt
 time.sleep(5) # Update rate in second(s)
 ```
+## Installation
+
+## How to use?
+
+## Contribute
+
+## Credits
+
+
+
