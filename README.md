@@ -37,7 +37,7 @@ After building or downloading the .exe file open it and you're ready to go!
 Use whatever streaming tool you are using and add a text to the streaming tool pointing to the current_world.txt file in the Growtopia folder.
 
 ## Contribute
-Like my project? join my [Discord](https://discord.gg/G5EJHjz) channel!
+Like my project? join my [Discord](https://discord.gg/v8G3zEr) channel!
 
 ## Credits
 Credits to users who back my project :)
