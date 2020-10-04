@@ -5,6 +5,7 @@ An application written in Python to write your current world in Growtopia to a t
 ## Table of contents
 - [Motivation](https://github.com/chadlimjinjie/Growtopia-Current-World/blob/main/README.md#motivation)
 - [Features](https://github.com/chadlimjinjie/Growtopia-Current-World/blob/main/README.md#features)
+- [Predicaments](https://github.com/chadlimjinjie/Growtopia-Current-World/blob/main/README.md#predicaments)
 - [Code Example](https://github.com/chadlimjinjie/Growtopia-Current-World/blob/main/README.md#code-example)
 - [Installation](https://github.com/chadlimjinjie/Growtopia-Current-World/blob/main/README.md#installation)
 - [How to use?](https://github.com/chadlimjinjie/Growtopia-Current-World/blob/main/README.md#how-to-use)
