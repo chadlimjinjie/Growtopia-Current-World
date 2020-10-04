@@ -18,6 +18,9 @@ To aid Growtopia streamers in displaying their current world to their viewers.
 - Writes your current world in Growtopia to a text file every 5 seconds interval
 - More to come by community suggestions...
 
+## Predicaments
+- Doesn't work with /go, /warp, /home, /gwarp, /rgo
+
 ## Code Example
 ```python
 USER = os.environ['USERPROFILE'] # e.g. C:/Users/chadl/
