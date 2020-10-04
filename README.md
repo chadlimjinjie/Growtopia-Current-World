@@ -8,5 +8,7 @@ To aid Growtopia streamers in displaying their current world to their viewers.
 - Writes your current world in Growtopia to a text file every 5 seconds
 
 ## Code Example
-|f = open(os.path.join(PATH, 'save.dat'), 'rb')|
-|f = open(os.path.join(PATH, 'current_world.txt'), 'w')|
+```python
+f = open(os.path.join(PATH, 'save.dat'), 'rb') # Open the save.dat file in byte format
+f = open(os.path.join(PATH, 'current_world.txt'), 'w') # Write the current world to current_world.txt
+```
